@@ -1,4 +1,5 @@
 # TODO App
+
 ### The Stack:
 - NestJS: A well-structured Node.js framework for building efficient and scalable backends.
 - MongoDB: A flexible NoSQL database that stores JSON-like documents, ideal for evolving data structures.
@@ -44,5 +45,22 @@ $ yarn install
 $ yarn start
 ```
 This will run on local URL http://localhost:3000
+
+
+# Diagrams
+## C4
+<img width="760" alt="image" src="https://github.com/duminhtam/td-app/assets/1624637/96cddc41-b8bd-4cc5-b066-b366108534ae">
+
+## Seq
+1. Create Todo
+<img width="809" alt="image" src="https://github.com/duminhtam/td-app/assets/1624637/c55a29fd-663d-42be-a95c-2345dab05884">
+2. Read Todo
+<img width="807" alt="image" src="https://github.com/duminhtam/td-app/assets/1624637/c2375cc5-6928-4b00-8b12-7d8294448c8e">
+3. Update
+<img width="804" alt="image" src="https://github.com/duminhtam/td-app/assets/1624637/c03e4a58-2674-4c05-b005-a61339c5ff18">
+4. Delete
+<img width="809" alt="image" src="https://github.com/duminhtam/td-app/assets/1624637/be26e88e-b9e3-46ac-b7c8-6148470d2d56">
+
+
 
 
